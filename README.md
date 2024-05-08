@@ -3,8 +3,11 @@ An attempt to replicate aspects of the Bias in Open Language datasets (BOLD) stu
 
 ## Dependencies
 numpy==1.25.2
+
 torch==2.2.1+cu121
+
 nltk==3.8.1
+
 transformers==4.40.1
 
 
